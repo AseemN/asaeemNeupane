@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aeemNeupane
-- 👀 I’m interested in CyberSecurity and Data Analyasis 
+- 👀 I’m interested in CyberSecurity and Data Analysis 
 - 🌱 I’m currently enrolled in Bachelor of Networking - Major in Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through Linkdln = https://www.linkedin.com/in/aseem-neupane-587760252/
