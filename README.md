@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asaeemNeupane
+- 👋 Hi, I’m @aeemNeupane
 - 👀 I’m interested in CyberSecurity and Data Analyasis 
 - 🌱 I’m currently enrolled in Bachelor of Networking - Major in Cybersecurity
 - 💞️ I’m looking to collaborate on ...
